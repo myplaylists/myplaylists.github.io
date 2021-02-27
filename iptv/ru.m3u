@@ -1,0 +1,20 @@
+﻿#EXTM3U url-tvg="https://play.google.com/store/apps/details?id=molokov.TVGuide"
+
+#https://kharkovgroup.github.io/iptv.html
+#обновление 2020.04.05
+
+#EXTGRP:Россия
+
+#EXTINF:-1,Первый канал
+http://109.248.90.88:4044/udp/239.195.32.1:1234
+#EXTINF:-1,Первый канал HD
+http://109.248.90.88:4044/udp/239.195.5.18:1234
+#EXTINF:-1,Первый канал Евразия
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1,Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Санкт-Петербург
+http://stream2.topspb.tv:1935/dev/smil:reserve.smil/playlist.m3u8
+
