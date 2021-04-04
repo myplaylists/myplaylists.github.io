@@ -18,3 +18,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.
 #EXTINF:-1,Санкт-Петербург
 http://stream2.topspb.tv:1935/dev/smil:reserve.smil/playlist.m3u8
 
+#EXTINF:-1,Первый HD
+https://edge3.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
+
