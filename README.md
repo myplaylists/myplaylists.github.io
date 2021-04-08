@@ -1,5 +1,3 @@
 # myplaylists
 
-https://myplaylists.github.io/iptv/all.m3u
-
-
+https://myplaylists.github.io/iptv/
