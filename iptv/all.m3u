@@ -30,8 +30,6 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTGRP:Россия
 
 #EXTINF:-1,НТВ
-http://51.195.44.53:8081/tv/ntv/playlist.m3u8
-#EXTINF:-1,НТВ
 http://91.234.255.18:8000/play/a049/index.m3u8
 #EXTINF:-1,НТВ Хит
 http://91.192.168.251:8401
@@ -46,15 +44,12 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u
 #EXTINF:-1,Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.m3u8
 
-
 #EXTGRP:Спорт
 
 #EXTINF:-1,Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
 #EXTINF:-1,НТВ+ Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
 #EXTINF:-1,Футбол 2 HD
 https://46-21-250-207.livesports24.online/fooootball2.m3u8
                                                                                                                                                                                                                                     
@@ -100,7 +95,7 @@ http://212.79.122.24:7071/epoxa
 http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
 
 #EXTINF:-1,FLUX HD
-http://92.63.101.249:80/flux/tracks-v1a1/mono.m3u8?token=site
+http://92.63.101.249:80/flux/tracks-v1a1/mono.m3u8
 
 #EXTGRP:Разное
 
@@ -110,19 +105,6 @@ http://109.248.90.88:4044/udp/239.195.0.24:1234
 http://109.248.90.88:4044/udp/239.195.5.14:1234
 #EXTINF:-1,Еда Премиум HD
 http://178.124.183.14:80/hls/BCPKKUK5NT/variant.m3u8
-#EXTINF:-1,HD LIFE
-http://91.103.248.82:81/play/a00b
 #EXTINF:-1,НТМ HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1,ENGLISH CLUB
-http://109.248.90.88:4044/udp/239.195.0.73:1234
-#EXTINF:-1,History
-http://109.248.90.88:4044/udp/239.195.1.42:1234
-#EXTINF:-1,OCEAN TV
-http://109.248.90.88:4044/udp/239.195.1.195:1234
-#EXTINF:-1,Енисей (Красноярск)
-http://109.248.90.88:4044/udp/239.195.41.46:1234
-#EXTINF:-1,Загородная жизнь
-http://109.248.90.88:4044/udp/239.195.1.78:1234
-#EXTINF:-1,Зоопарк
-http://109.248.90.88:4044/udp/239.195.1.24:1234
+
