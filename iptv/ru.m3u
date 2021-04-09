@@ -1,14 +1,9 @@
 ﻿#EXTM3U url-tvg="https://play.google.com/store/apps/details?id=molokov.TVGuide"
 
-<<<<<<< HEAD
 #https://myplaylists.github.io
 
 #обновление 2021.04.08
-=======
-#https://kharkovgroup.github.io/iptv.html
-#обновление 2020.04.05
->>>>>>> 47a0bc2f84396ea175d3c0f0cdd053c85f31987a
-
+=
 #EXTGRP:Россия
 
 #EXTINF:-1,Первый канал HD
