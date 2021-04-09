@@ -1,0 +1,61 @@
+﻿#EXTM3U
+#https://kharkovgroup.github.io/iptv.html
+#обновление 2020.02.11
+
+#EXTGRP:Музыка
+
+#EXTINF:-1,MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+#EXTINF:-1,O-TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1,Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1,O-TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1,М2
+http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1,М2
+http://live.m2.tv/hls3/stream.m3u8
+
+#EXTINF:-1,RU TV
+http://109.248.90.88:4044/udp/239.195.0.43:1234
+#EXTINF:-1,Russian Music Box
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1,OneRUS
+http://rtmp.one.by:2200
+#EXTINF:-1,OneRUS HD
+http://rtmp.one.by:2300
+#EXTINF:-1,Страна FM TV
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1,VIVA Russia
+http://85.143.202.116/hls/viva.m3u8
+
+#EXTINF:-1,МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1,Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
+#EXTINF:-1,Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1,Первый Музыкальный BY HD
+http://rtmp.one.by:1300
+#EXTINF:-1,Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:-1,Первый Музыкальный RU BY HD
+http://rtmp.one.by:2300
+
+#EXTINF:-1,Радио Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1,Ля Минор
+http://91.103.248.82:81/play/a008
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1,Радио Шансон ТВ HD
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+
+#EXTINF:-1,MIXM TV
+http://89.179.247.144/mixm.m3u8
+
