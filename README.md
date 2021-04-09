@@ -1,3 +1,3 @@
 # myplaylists
 
-https://myplaylists.github.io/iptv/
+https://myplaylists.github.io
