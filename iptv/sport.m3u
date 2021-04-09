@@ -1,6 +1,10 @@
 ﻿#EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml"
 
+<<<<<<< HEAD
 #https://myplaylists.github.io
+=======
+#https://kharkovgroup.github.io/iptv.html
+>>>>>>> 47a0bc2f84396ea175d3c0f0cdd053c85f31987a
 
 #обновление 2021.04.08
 
