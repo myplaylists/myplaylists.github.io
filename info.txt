@@ -1,7 +1,7 @@
 # myplaylists
 
-git config --global user.email "iptv.club@ukr.net"
-git config --global user.name "iptvplaylists"
+git config user.email "iptv.club@ukr.net"
+git config user.name "iptvplaylists"
 
 
 echo "# myplaylists" >> README.md
@@ -31,10 +31,6 @@ git push -u origin main
 git remote add origin https://github.com/myplaylists/myplaylists.github.io.git
 git branch -M main
 git push -u origin main
-
-
-git remote add [сокращение] [url]
-
 
 Если вы добавили файл или папку в .gitignore, после того как они попали в репозиторий, то их необходимо удалить из репозитория командой:
 
