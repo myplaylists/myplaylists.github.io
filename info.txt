@@ -1,0 +1,41 @@
+# myplaylists
+
+git config user.email "iptv.club@ukr.net"
+git config user.name "iptvplaylists"
+
+---
+echo "# myplaylists.github.io" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/myplaylists/myplaylists.github.io.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/myplaylists/myplaylists.github.io.git
+git branch -M main
+git push -u origin main
+
+Если вы добавили файл или папку в .gitignore, после того как они попали в репозиторий, то их необходимо удалить из репозитория командой:
+git rm --cached <file>
+
+---
+sudo chown user:user info.txt
+
+cd /path/to/my/repo
+git init
+git add --all
+git commit -m "Initial commit"
+git remote add origin <remote repo URL>
+git push -u origin master
+
+---
+Читаем файлы с сервера и объединяем с имеющимися на локальном компьютере, конфликты устраняем редактированием файлов
+sudo git pull origin main
+
+Редактируем файлы, сохраняем и пушим на сервер
+sudo git commit -a -m "20210409"
+sudo git push -u origin
+
+

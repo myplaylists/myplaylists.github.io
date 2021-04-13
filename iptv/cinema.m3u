@@ -2,9 +2,12 @@
 
 #https://myplaylists.github.io
 
-#обновление 2021.04.08
+#обновление 2021.04.12
 
 #EXTGRP:Кино
+
+#EXTINF:-1,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 
 #EXTINF:-1,Наше любимое кино
 http://212.79.122.24:7071/epoxa
