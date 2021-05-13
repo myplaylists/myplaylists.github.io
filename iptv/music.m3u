@@ -2,17 +2,19 @@
 
 #https://myplaylists.github.io
 
-#обновление 2021.04.12
+#обновление 2021.05.13
 
 #EXTGRP:Музыка
 
-#EXTINF:-1,М2 (720p)
+#EXTINF:-1,М1
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1,М2
 http://live.m2.tv/hls3/stream.m3u8
 
-#EXTINF:-1 ,Hit Music Channel
+#EXTINF:-1,Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
 
-#EXTINF:-1 ,Russian Music Box HD
+#EXTINF:-1,Russian Music Box HD
 https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 
 #EXTINF:-1,OneRUS
@@ -25,12 +27,8 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1,Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
 
-#EXTINF:-1,Первый Музыкальный BY
-http://rtmp.one.by:1200
 #EXTINF:-1,Первый Музыкальный BY HD
 http://rtmp.one.by:1300
-#EXTINF:-1,Первый Музыкальный RU BY
-http://rtmp.one.by:2200
 #EXTINF:-1,Первый Музыкальный RU BY HD
 http://rtmp.one.by:2300
 
