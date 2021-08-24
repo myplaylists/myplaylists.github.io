@@ -6,8 +6,20 @@
 
 #EXTGRP:Радио
 
-#EXTINF:-1 ,Радио Пятница [UA] (Веб-камера)
+#EXTINF:-1, Радио Люкс HD
+https://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
+
+#EXTINF:-1,Радио Люкс FM [UA] (Веб-камера)
+http://streamvideol1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/chunklist_b1392000.m3u8
+
+#EXTINF:-1,Радио Пятница [UA] (Веб-камера)
 https://rtmp.radiogroup.com.ua:8080/live/pt/index.m3u8
+
+#EXTINF:-1,Радио Джем FM [UA] (Веб-камера)
+https://rtmp.radiogroup.com.ua:8080/live/jam/index.m3u8
+
+#EXTINF:-1,Радио Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 ,Радио Маяк
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
@@ -18,23 +30,14 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/mayak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,Радио Мелодия [RU]
 https://live-mediaaliance2.cdnvideo.ru/mediaaliance2/mediaaliance2/playlist.m3u8
 
-#EXTINF:-1 ,Радио Люкс FM [UA] (Веб-камера)
-http://streamvideol1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/chunklist_b1392000.m3u8
-
-#EXTINF:-1,Радио Страна FM ТВ
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-
 #EXTINF:-1,Радио Шансон ТВ
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 
-#EXTINF:-1 ,Радио Вести FM [RU]
+#EXTINF:-1,Радио Вести FM [RU]
 http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
-#EXTINF:-1 ,Радио Говорит Москва [RU] (Веб-камера)
+#EXTINF:-1,Радио Говорит Москва [RU] (Веб-камера)
 https://video.govoritmoskva.ru/rufm/index.m3u8
 
-#EXTINF:-1 ,Радио Джем FM [UA] (Веб-камера)
-https://rtmp.radiogroup.com.ua:8080/live/jam/index.m3u8
-
-#EXTINF:-1 ,Радио Книга
+#EXTINF:-1,Радио Книга
 http://bookradio.hostingradio.ru:8069/fm
 

@@ -12,7 +12,6 @@ https://strm.yandex.ru/kal/tvrain/tvrain0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
-
 #EXTINF:-1,НТВ
 http://91.234.255.18:8000/play/a049/index.m3u8
 #EXTINF:-1,НТВ Хит
@@ -21,8 +20,11 @@ http://91.192.168.251:8401
 #EXTINF:-1,Первый канал Евразия
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 
-#EXTINF:-1,Россия 1 HD
+#EXTINF:-1,Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+
+#EXTINF:-1,Россия 2
+http://82.200.80.142:8080/rus2/mono.m3u8
 
 #EXTINF:-1,Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
@@ -31,9 +33,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.
 
 #EXTINF:-1,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-
-#EXTINF:-1,РЕН ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 
 #EXTINF:-1,Первый СССР
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
