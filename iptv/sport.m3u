@@ -2,9 +2,76 @@
 
 #https://myplaylists.github.io
 
-#обновление 2021.08.24
+#обновление 2022.06.01
 
 #EXTGRP:Спорт
+
+#EXTINF:0,Setanta Sports 1
+http://88.99.214.215/setanta1/mono.m3u8
+#EXTINF:0,Setanta Sports 2
+http://88.99.214.215/setanta2/mono.m3u8
+#EXTINF:0,Setanta Sports Ukraine
+http://88.99.214.215/setantasport/mono.m3u8
+#EXTINF:0,Футбол 1 UA
+http://88.99.214.215/ua1/mono.m3u8
+#EXTINF:0,Футбол 2 UA
+http://88.99.214.215/ua2/mono.m3u8
+#EXTINF:0,Sky sport cricket
+http://88.99.214.215/ua3/mono.m3u8
+#EXTINF:-1,Матч! АРЕНА HD
+http://89.104.114.26:8080/arena_hd/index.m3u8
+#EXTINF:-1,Матч! Боец
+http://88.99.214.215/matchboec/mono.m3u8
+#EXTINF:-1,Матч!
+http://88.99.214.215/match/mono.m3u8
+#EXTINF:-1,Матч! Игра
+http://88.99.214.215/matchigra/mono.m3u8
+#EXTINF:-1,Матч! Страна
+http://88.99.214.215/matchstrana/mono.m3u8
+#EXTINF:0 ,Матч! Планета
+http://84.17.61.200:8085/udp/238.2.0.14:1234
+#EXTINF:-1,Матч! Премьер
+http://89.104.114.26:8080/nash-football/index.m3u8
+#EXTINF:-1,Sport1
+http://88.99.214.215/sport1/mono.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://88.99.214.215/m1/mono.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://88.99.214.215/m2/mono.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://88.99.214.215/m3/mono.m3u8
+
+#EXTINF:-1,KHL
+http://88.99.214.215/khl/mono.m3u8
+#EXTINF:-1,KHL Prime
+https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
+#EXTINF:-1,Viasat Sport
+http://88.99.214.215/ViasatSport/mono.m3u8
+#EXTINF:-1,Eurosport 1
+http://88.99.214.215/Eurosport1/mono.m3u8
+#EXTINF:-1,Eurosport 2
+http://88.99.214.215/Eurosport2/mono.m3u8
+#EXTINF:-1,СТАРТ HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=startlive
+#EXTINF:-1,Мир баскетбола
+http://46.174.83.66/MirBasketbola/mpegts
+#EXTINF:0,Спортивный HD
+http://128.0.27.41:8080/239.211.200.46/mpegts
+#EXTINF:0,Хоккейный HD
+http://128.0.27.41:8080/239.211.200.48/mpegts
+#EXTINF:0,Футбольный HD
+http://128.0.27.41:8080/239.211.200.47/mpegts
+#EXTINF:-1,M-1 Global
+https://sc.id-tv.kz:443/M-1_34_35.m3u8
+#EXTINF:-1,Бокс ТВ
+http://89.104.114.26:8080/boks-tv/index.m3u8
+#EXTINF:-1,ФУТБОЛ HD
+http://89.104.114.26:8080/football/index.m3u8
+#EXTINF:-1,Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+
+#EXTINF:-1,Kujtesa Sport 1 HD
+http://93.157.62.180/KSport1/index.m3u8
 
 #EXTINF:-1,Sport 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
@@ -107,6 +174,12 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1,XSPORT HD
 http://iptv.prosto.tv:7000/ch110/video.m3u8
+
+#EXTINF:-1, Матч ...
+http://91.210.251.17:4866/udp/239.0.1.56:4000
+
+#EXTINF:-1, KHL
+https://sc.id-tv.kz:443/KHL_36_37.m3u8
 
 #EXTINF:-1 ,Qazsport KZ
 http://92.46.127.146:8080/qazsport/index.m3u8
@@ -212,3 +285,54 @@ https://95-213-224-180.livesports24.online/belarusss5.m3u8
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 ,СТАРТ [ПОЕДИНОК] [FHD]
 http://stream-msk-06.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/03/plst.m3u8
+
+#EXTINF:-1,Viasat Sport
+http://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1,SPORT ITALIA Live 24
+http://luminar.tv:2300/fabius/fabius/10373
+#EXTINF:-1,SPORT ITALIA HD
+http://luminar.tv:2300/fabius/fabius/10372
+#EXTINF:-1,SPORT ITALIA LIVE 24 NUC
+http://luminar.tv:2300/fabius/fabius/10371
+#EXTINF:-1,SPORT ITALIA SOLO CALCIO NUC
+http://luminar.tv:2300/fabius/fabius/10370
+#EXTINF:-1,SPORT ITALIA SOLO MOTORI NUC
+http://luminar.tv:2300/fabius/fabius/10369
+
+#EXTINF:-1,EUROSPORT 1 HD
+http://rv.therevenge.co:80/0555141902/3893970296/84535
+#EXTINF:-1,EUROSPORT 2 HD
+http://rv.therevenge.co:80/0555141902/3893970296/84534
+#EXTINF:-1,MATCH TV HD
+http://rv.therevenge.co:80/0555141902/3893970296/84533
+#EXTINF:-1,MATCH! ARENA
+http://rv.therevenge.co:80/0555141902/3893970296/84532
+#EXTINF:-1,MATCH! FOOTBALL 1 HD
+http://rv.therevenge.co:80/0555141902/3893970296/84531
+#EXTINF:-1,MATCH! FOOTBALL 2 HD
+http://rv.therevenge.co:80/0555141902/3893970296/84530
+#EXTINF:-1,MATCH! FOOTBALL 3 HD
+http://rv.therevenge.co:80/0555141902/3893970296/84529
+#EXTINF:-1,MATCH! GAME HD
+http://rv.therevenge.co:80/0555141902/3893970296/84528
+
+#EXTINF:-1,Viasat Sport
+http://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1,SPORT ITALIA Live 24
+http://luminar.tv:2300/fabius/fabius/10373
+#EXTINF:-1,SPORT ITALIA HD
+http://luminar.tv:2300/fabius/fabius/10372
+#EXTINF:-1,SPORT ITALIA LIVE 24 NUC
+http://luminar.tv:2300/fabius/fabius/10371
+#EXTINF:-1,SPORT ITALIA SOLO CALCIO NUC
+http://luminar.tv:2300/fabius/fabius/10370
+#EXTINF:-1,SPORT ITALIA SOLO MOTORI NUC
+http://luminar.tv:2300/fabius/fabius/10369
+
+#EXTINF:-1,Turkmen Sport HD
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1,Матч ТВ
+http://iptv.ktkru.ru:8003/index.m3u8
