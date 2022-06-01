@@ -2,7 +2,7 @@
 
 #https://myplaylists.github.io
 
-#обновление 2021.05.30
+#обновление 2022.06.01
 
 #EXTGRP:Харьков
 
@@ -167,19 +167,69 @@ https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
 
 #EXTGRP:Спорт
 
-#EXTINF:-1,Sport 1
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF:0,Setanta Sports 1
+http://88.99.214.215/setanta1/mono.m3u8
+#EXTINF:0,Setanta Sports 2
+http://88.99.214.215/setanta2/mono.m3u8
+#EXTINF:0,Setanta Sports Ukraine
+http://88.99.214.215/setantasport/mono.m3u8
+#EXTINF:0,Футбол 1 UA
+http://88.99.214.215/ua1/mono.m3u8
+#EXTINF:0,Футбол 2 UA
+http://88.99.214.215/ua2/mono.m3u8
+#EXTINF:0,Sky sport cricket
+http://88.99.214.215/ua3/mono.m3u8
+#EXTINF:-1,Матч! АРЕНА HD
+http://89.104.114.26:8080/arena_hd/index.m3u8
+#EXTINF:-1,Матч! Боец
+http://88.99.214.215/matchboec/mono.m3u8
+#EXTINF:-1,Матч!
+http://88.99.214.215/match/mono.m3u8
+#EXTINF:-1,Матч! Игра
+http://88.99.214.215/matchigra/mono.m3u8
+#EXTINF:-1,Матч! Страна
+http://88.99.214.215/matchstrana/mono.m3u8
+#EXTINF:0 ,Матч! Планета
+http://84.17.61.200:8085/udp/238.2.0.14:1234
+#EXTINF:-1,Матч! Премьер
+http://89.104.114.26:8080/nash-football/index.m3u8
+#EXTINF:-1,Sport1
+http://88.99.214.215/sport1/mono.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://88.99.214.215/m1/mono.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://88.99.214.215/m2/mono.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://88.99.214.215/m3/mono.m3u8
 
-#EXTINF:-1,Футбол 1 UA
-https://sportuslive.ru/ua1/index.m3u8
-
-#EXTINF:-1,Футбол 1
-https://95-213-224-183.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1,Футбол 2
-https://95-213-224-183.livesports24.online/fooootball2.m3u8
-
-#EXTINF:-1,Футбол 2 HD
-https://46-21-250-207.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,KHL
+http://88.99.214.215/khl/mono.m3u8
+#EXTINF:-1,KHL Prime
+https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
+#EXTINF:-1,Viasat Sport
+http://88.99.214.215/ViasatSport/mono.m3u8
+#EXTINF:-1,Eurosport 1
+http://88.99.214.215/Eurosport1/mono.m3u8
+#EXTINF:-1,Eurosport 2
+http://88.99.214.215/Eurosport2/mono.m3u8
+#EXTINF:-1,СТАРТ HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=startlive
+#EXTINF:-1,Мир баскетбола
+http://46.174.83.66/MirBasketbola/mpegts
+#EXTINF:0,Спортивный HD
+http://128.0.27.41:8080/239.211.200.46/mpegts
+#EXTINF:0,Хоккейный HD
+http://128.0.27.41:8080/239.211.200.48/mpegts
+#EXTINF:0,Футбольный HD
+http://128.0.27.41:8080/239.211.200.47/mpegts
+#EXTINF:-1,M-1 Global
+https://sc.id-tv.kz:443/M-1_34_35.m3u8
+#EXTINF:-1,Бокс ТВ
+http://89.104.114.26:8080/boks-tv/index.m3u8
+#EXTINF:-1,ФУТБОЛ HD
+http://89.104.114.26:8080/football/index.m3u8
+#EXTINF:-1,Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
 
 #EXTINF:-1,Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
