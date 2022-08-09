@@ -2,21 +2,37 @@
 
 #https://myplaylists.github.io
 
-#обновление 2022.06.01
+#обновление 2022.08.08
 
 #EXTGRP:Спорт
 
+#EXTINF:-1,Viasat Sport HD
+http://91.213.59.156/play/51/index.m3u8
 #EXTINF:-1,Eurosport 1 HD
 http://50.7.92.90/Eurosport_HD/mono.m3u8
 #EXTINF:-1,Eurosport 2 HD
 http://50.7.92.90/Evrosport_2/mono.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1582.m3u8
 #EXTINF:-1,Extreme Sports
 http://50.7.92.90/Extreme_Sports/mono.m3u8
+
 #EXTINF:-1,Setanta Eurasia HD
 http://50.7.92.90/SetantaEurasia/mono.m3u8
+#EXTINF:0,Setanta Sports 1
+http://88.99.214.215/setanta1/mono.m3u8
+#EXTINF:0,Setanta Sports 2
+http://88.99.214.215/setanta2/mono.m3u8
+#EXTINF:0,Setanta Sports Ukraine
+http://88.99.214.215/setantasport/mono.m3u8
+#EXTINF:-1,Setanta Sports Ukraine HD
+http://91.213.59.156/play/6/index.m3u8
+#EXTINF:-1,Setanta+ HD UA
+http://91.213.59.156/play/13/index.m3u8
 
+#EXTINF:-1,Телеканал Футбол
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2294.m3u8
+
+#EXTINF:-1,Матч ТВ
+http://iptv.ktkru.ru:8003/index.m3u8
 #EXTINF:-1,Матч! Футбол 1 HD
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2794.m3u8
 #EXTINF:-1,Матч! Футбол 3 HD
@@ -25,8 +41,6 @@ http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2796.m3u8
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2898.m3u8
 #EXTINF:-1,МАТЧ! HD
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2900.m3u8
-#EXTINF:-1,UFC ТВ
-http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2880.m3u8
 
 #EXTINF:-1,Матч! Боец
 http://50.7.92.90/Match_Boets/mono.m3u8
@@ -39,63 +53,6 @@ http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
 #EXTINF:-1,Матч! Футбол 3 HD
 http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
 
-#EXTINF:-1,Viasat Sport HD
-http://91.213.59.156/play/51/index.m3u8
-#EXTINF:-1,Setanta Sports Ukraine HD
-http://91.213.59.156/play/6/index.m3u8
-#EXTINF:-1,Setanta+ HD UA
-http://91.213.59.156/play/13/index.m3u8
-
-#EXTINF:-1,Телеканал Футбол
-http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2294.m3u8
-
-
-
-#EXTINF:0,Setanta Sports 1
-http://88.99.214.215/setanta1/mono.m3u8
-#EXTINF:0,Setanta Sports 2
-http://88.99.214.215/setanta2/mono.m3u8
-#EXTINF:0,Setanta Sports Ukraine
-http://88.99.214.215/setantasport/mono.m3u8
-#EXTINF:0,Футбол 1 UA
-http://88.99.214.215/ua1/mono.m3u8
-#EXTINF:0,Футбол 2 UA
-http://88.99.214.215/ua2/mono.m3u8
-#EXTINF:0,Sky sport cricket
-http://88.99.214.215/ua3/mono.m3u8
-#EXTINF:-1,Матч! АРЕНА HD
-http://89.104.114.26:8080/arena_hd/index.m3u8
-#EXTINF:-1,Матч! Боец
-http://88.99.214.215/matchboec/mono.m3u8
-#EXTINF:-1,Матч!
-http://88.99.214.215/match/mono.m3u8
-#EXTINF:-1,Матч! Игра
-http://88.99.214.215/matchigra/mono.m3u8
-#EXTINF:-1,Матч! Страна
-http://88.99.214.215/matchstrana/mono.m3u8
-#EXTINF:0 ,Матч! Планета
-http://84.17.61.200:8085/udp/238.2.0.14:1234
-#EXTINF:-1,Матч! Премьер
-http://89.104.114.26:8080/nash-football/index.m3u8
-#EXTINF:-1,Sport1
-http://88.99.214.215/sport1/mono.m3u8
-#EXTINF:-1,Матч! Футбол 1
-http://88.99.214.215/m1/mono.m3u8
-#EXTINF:-1,Матч! Футбол 2
-http://88.99.214.215/m2/mono.m3u8
-#EXTINF:-1,Матч! Футбол 3
-http://88.99.214.215/m3/mono.m3u8
-
-#EXTINF:-1,KHL
-http://88.99.214.215/khl/mono.m3u8
-#EXTINF:-1,KHL Prime
-https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
-#EXTINF:-1,Viasat Sport
-http://88.99.214.215/ViasatSport/mono.m3u8
-#EXTINF:-1,Eurosport 1
-http://88.99.214.215/Eurosport1/mono.m3u8
-#EXTINF:-1,Eurosport 2
-http://88.99.214.215/Eurosport2/mono.m3u8
 #EXTINF:-1,СТАРТ HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=startlive
 #EXTINF:-1,Мир баскетбола
@@ -106,278 +63,35 @@ http://128.0.27.41:8080/239.211.200.46/mpegts
 http://128.0.27.41:8080/239.211.200.48/mpegts
 #EXTINF:0,Футбольный HD
 http://128.0.27.41:8080/239.211.200.47/mpegts
-#EXTINF:-1,M-1 Global
-https://sc.id-tv.kz:443/M-1_34_35.m3u8
-#EXTINF:-1,Бокс ТВ
-http://89.104.114.26:8080/boks-tv/index.m3u8
-#EXTINF:-1,ФУТБОЛ HD
-http://89.104.114.26:8080/football/index.m3u8
-#EXTINF:-1,Удар
-https://strm.yandex.ru/kal/udar/udar0.m3u8
-
-#EXTINF:-1,Kujtesa Sport 1 HD
-http://93.157.62.180/KSport1/index.m3u8
-
-#EXTINF:-1,Sport 1
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
-
-#EXTINF:-1,Футбол 1 UA
-https://sportuslive.ru/ua1/index.m3u8
-
-#EXTINF:-1,Футбол 1
-https://95-213-224-183.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1,Футбол 2
-https://95-213-224-183.livesports24.online/fooootball2.m3u8
-
-#EXTINF:-1,Футбол 2 HD
-https://46-21-250-207.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1,Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
-#EXTINF:-1,НТВ+ Спорт
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
-#EXTINF:-1,Фан Спорт
-https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1,Фан Спорт 2
-https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-#EXTINF:-1,Матч! Арена
-https://95-213-224-179.livesports24.online/rumatcharena.m3u8
-#EXTINF:-1,Матч! Арена
-http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
-#EXTINF:-1,Матч! Боец
-http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
-#EXTINF:-1,Матч! Наш спорт
-http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
-#EXTINF:-1,Матч! Футбол 2
-https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
-
 #EXTINF:-1,MostVideo
 http://w4.mostvideo.tv/tv/ch1.m3u8
-
-#EXTINF:-1,1+1 Sport
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1,Viasat Sport
-http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1,Setanta Sports+
-http://195.158.29.129/live_360/live.stream+_360p.m3u8
-
-#EXTINF:-1,Setanta Sport Ukraine [FHD]
-https://185-107-80-245.livesports24.online/setantaukraine.m3u8
-
-#EXTINF:-1,Setanta Sports 1
-https://sportuslive.ru/setanta1/index.m3u8
-#EXTINF:-1,Setanta Sports 2
-https://sportuslive.ru/setanta2/index.m3u8
-
-#EXTINF:-1,Setanta Sports Ukraine HD
-https://95-213-172-213.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1,Setanta Sports Ukraine HD
-https://95-213-224-187.livesports24.online/setantaukraine.m3u8
-
-#EXTINF:-1,Setanta Sports 2
-https://95-213-172-213.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1,Setanta Sports 2 HD
-https://95-213-224-187.livesports24.online/setantaplusru.m3u8
-
-#EXTINF:-1,Россия 2
-http://82.200.80.142:8080/rus2/mono.m3u8
-
-#EXTINF:-1,MostVideo.TV
-http://w4.mostvideo.tv/tv/ch1.m3u8
-
-#EXTINF:-1 ,Беларусь 5 HD
-https://95-213-172-213.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 ,Беларусь 5
-https://95-213-224-187.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 ,Футбол 1
-https://95-213-172-213.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 ,Футбол 1 HD
-https://95-213-224-187.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 ,Футбол 2 UA
-https://95-213-172-213.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 ,Футбол 2 HD
-https://95-213-224-187.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 ,Футбол 3 HD
-https://95-213-172-213.livesports24.online/football3ua.m3u8
-#EXTINF:-1 ,Футбол 3 HD UA
-https://95-213-224-187.livesports24.online/football3ua.m3u8
-#EXTINF:-1 ,Sport 1
-http://iptv.prosto.tv:7000/ch113/video.m3u8
-#EXTINF:-1 ,Sport 1
-https://95-213-224-187.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 ,Sport 2
-http://iptv.prosto.tv:7000/ch115/video.m3u8
-#EXTINF:-1 ,Sport 2
-http://iptv.prosto.tv:7000/ch115/video.m3u8?telegramm=yossotv
-#EXTINF:-1 ,Спортивный HD
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1,XSPORT
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1,XSPORT HD
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 
-#EXTINF:-1, Матч ...
-http://91.210.251.17:4866/udp/239.0.1.56:4000
-
 #EXTINF:-1, KHL
 https://sc.id-tv.kz:443/KHL_36_37.m3u8
 
-#EXTINF:-1 ,Qazsport KZ
-http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:-1 ,Red Booll
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 ,UFC HD
-http://118.47.168.157:8080/play/a0211/index.m3u8
-#EXTINF:-1 ,Старт HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 ,Старт HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 ,Turkmen Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Футбол 1 HD [UA] [HQ]
-https://185-107-80-245.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 ,Футбол 1HD [UA] [HQ]
-https://95-213-224-186.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 ,Футбол 1 HD [UA] [HQ]
-https://185-198-56-58.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 ,Футбол 1 HD [UA] [HQ]
-https://46-166-139-70.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 ,Футбол 2 HD [UA] [HQ]
-https://185-107-80-245.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 ,Футбол 3 HD [UA] [HQ]
-https://185-107-80-245.livesports24.online/football3ua.m3u8
-#EXTINF:-1 ,ФУТБОЛ 2 HD [UA] [HQ]
-https://46-166-139-70.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 ,Футбол 3 HD [UA] [HQ]
-https://95-213-224-186.livesports24.online/football3ua.m3u8
-#EXTINF:-1 ,ФУТБОЛ 2 HD [UA] [HQ]
-https://185-198-56-58.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 ,ФУТБОЛ 3 HD [UA] [HQ]
-https://185-198-56-58.livesports24.online/football3ua.m3u8
-#EXTINF:-1 ,Футбол 2 HD [UA] [HQ]
-https://95-213-224-186.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 ,Футбол 3 HD [UA] [HQ]
-https://46-166-139-70.livesports24.online/football3ua.m3u8
-#EXTINF:-1 ,Беларусь 5 [FHD]
-https://46-166-139-70.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 ,Спорт 1 Украина [SD]
-https://46-166-139-70.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 ,Спорт 1 Украина [SD]
-https://95-213-224-186.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 ,Футбол [SD]
-https://185-107-80-245.livesports24.online/footballrus.m3u8
-#EXTINF:-1 ,Футбол 1 HD [UA] [HQ]
-https://77-247-178-24.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 ,ФУТБОЛ 2 HD [UA] [HQ]
-https://77-247-178-24.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 ,ФУТБОЛ 3 HD [UA] [HQ]
-https://77-247-178-24.livesports24.online/football3ua.m3u8
-#EXTINF:-1 ,Беларусь 5 [FHD]
-https://77-247-178-24.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 ,Спорт 1 [укр] [SD]
-https://77-247-178-24.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 ,СТАРТ [ИГРА] [FHD]
+#EXTINF:-1,СТАРТ ИГРА FHD
 https://stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/03/plst.m3u8
-#EXTINF:-1 ,Setanta Sports 2 [FHD]
-https://77-247-178-24.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1 ,Setanta Sports Ukraine [FHD]
-https://77-247-178-24.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 ,CANAL+SPORT [HD]
-http://62.112.9.63:88/canal+_sport/index.m3u8?token=test
-#EXTINF:-1 ,Racing [HQ]
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 ,Canal+ Sport Polska [HD]
-http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Edge Sport [FHD]
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 ,Racing [SD-]
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
-#EXTINF:-1 ,World Of Free Sports TV [HD]
+
+#EXTINF:-1,World Of Free Sports TV [HD]
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 ,Bellator MMA [HD]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,GLORY Kickboxing [HD]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,TritonFight [HD]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,FOX Sports HD [HD]
+
+#EXTINF:-1,FOX Sports HD [HD]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,PGA TOUR [HD]
+#EXTINF:-1,PGA TOUR [HD]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,Футбол [SD]
-https://77-247-178-24.livesports24.online/footballrus.m3u8
-#EXTINF:-1 ,Футбол [SD]
-https://95-213-224-175.livesports24.online/footballrus.m3u8
-#EXTINF:-1 ,Футбол [SD]
-https://95-213-224-186.livesports24.online/footballrus.m3u8
-#EXTINF:-1 ,Viasat Sport [RU] [HQ]
-http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 ,sky1 [HD]
-http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1 ,sky2 [HD]
-http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF:-1 ,Беларусь 5 [FHD]
-https://95-213-224-175.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 ,Беларусь 5 [FHD]
-https://95-213-172-221.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 ,БЕЛАРУСЬ 5 [FHD]
-https://95-213-224-180.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 ,1+1 Sport [HD]
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 ,СТАРТ [ПОЕДИНОК] [FHD]
+
+#EXTINF:-1 ,СТАРТ ПОЕДИНОК FHD
 http://stream-msk-06.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/03/plst.m3u8
-
-#EXTINF:-1,Viasat Sport
-http://persik.tv/stream/3602/287583/10249.m3u8
-
-#EXTINF:-1,SPORT ITALIA Live 24
-http://luminar.tv:2300/fabius/fabius/10373
-#EXTINF:-1,SPORT ITALIA HD
-http://luminar.tv:2300/fabius/fabius/10372
-#EXTINF:-1,SPORT ITALIA LIVE 24 NUC
-http://luminar.tv:2300/fabius/fabius/10371
-#EXTINF:-1,SPORT ITALIA SOLO CALCIO NUC
-http://luminar.tv:2300/fabius/fabius/10370
-#EXTINF:-1,SPORT ITALIA SOLO MOTORI NUC
-http://luminar.tv:2300/fabius/fabius/10369
-
-#EXTINF:-1,EUROSPORT 1 HD
-http://rv.therevenge.co:80/0555141902/3893970296/84535
-#EXTINF:-1,EUROSPORT 2 HD
-http://rv.therevenge.co:80/0555141902/3893970296/84534
-#EXTINF:-1,MATCH TV HD
-http://rv.therevenge.co:80/0555141902/3893970296/84533
-#EXTINF:-1,MATCH! ARENA
-http://rv.therevenge.co:80/0555141902/3893970296/84532
-#EXTINF:-1,MATCH! FOOTBALL 1 HD
-http://rv.therevenge.co:80/0555141902/3893970296/84531
-#EXTINF:-1,MATCH! FOOTBALL 2 HD
-http://rv.therevenge.co:80/0555141902/3893970296/84530
-#EXTINF:-1,MATCH! FOOTBALL 3 HD
-http://rv.therevenge.co:80/0555141902/3893970296/84529
-#EXTINF:-1,MATCH! GAME HD
-http://rv.therevenge.co:80/0555141902/3893970296/84528
-
-#EXTINF:-1,Viasat Sport
-http://persik.tv/stream/3602/287583/10249.m3u8
-
-#EXTINF:-1,SPORT ITALIA Live 24
-http://luminar.tv:2300/fabius/fabius/10373
-#EXTINF:-1,SPORT ITALIA HD
-http://luminar.tv:2300/fabius/fabius/10372
-#EXTINF:-1,SPORT ITALIA LIVE 24 NUC
-http://luminar.tv:2300/fabius/fabius/10371
-#EXTINF:-1,SPORT ITALIA SOLO CALCIO NUC
-http://luminar.tv:2300/fabius/fabius/10370
-#EXTINF:-1,SPORT ITALIA SOLO MOTORI NUC
-http://luminar.tv:2300/fabius/fabius/10369
 
 #EXTINF:-1,Turkmen Sport HD
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
-#EXTINF:-1,Матч ТВ
-http://iptv.ktkru.ru:8003/index.m3u8
